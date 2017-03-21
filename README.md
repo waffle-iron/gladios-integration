@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/Jason-vh/gladios-integration.png?label=ready&title=Ready)](https://waffle.io/Jason-vh/gladios-integration)
 # GladiOS - Integration
 > The Integration framework for the iOS branch of NavUP. This subsystem links together all the other subsystems, ensuring consistency and cooperation between them.
 
